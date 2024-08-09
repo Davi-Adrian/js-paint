@@ -1,1 +1,1 @@
-# js-pongMP
+# js-paint
